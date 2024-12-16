@@ -1,8 +1,0 @@
-{
-    "java.project.sourcePaths": [
-        "Sketch/code",
-    ],
-    "java.project.referencedLibraries": [
-        "test-lib\\**\\*.jar"
-    ]
-}
