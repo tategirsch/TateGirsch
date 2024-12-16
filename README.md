@@ -15,4 +15,4 @@ The Particle Simulator project visualizes an interactive particle system where p
 ### How to Run the Program
 * **Load obstacles.csv** with obstacles you want to have placed in the program
 * **Launch serverAPI.py**
-* **Launch Processing Sketch.pde**
+* **Launch Sketch.pde via Processing.exe**
