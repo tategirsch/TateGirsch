@@ -1,18 +1,11 @@
-# Particle Simulator
-Project Lead: Tate Girsch
-### Overview
+### Hi, I'm Tate Girsch
 
-The Particle Simulator project visualizes an interactive particle system where particles experience gravity, collisions, and interactions with obstacles in the simulation. The simulator demonstrates fundamental physics principles, such as vector-based motion, and elastic collisions. It allows users to manipulate the environment by adding or removing particles and interacting with obstacles through mouse input linked to a csv file via an API.
+I am a data science undergraduate at the University of Minnesota.
 
-### Features
-* **Collision Handling:** Each particles collisions are individually calculated with the obstacle to ensure precise interactions.
-* **Gravity Simulation:** brings the particles to the floor and they bounce
-* **Adding Particles:** Pressing "+" adds 50 particles from the simulation
-* **Deleting Particles:** Pressing "-" deletes 50 particles from the simulation
-* **Adding Obstacles:** Left clicking anywhere on the screen adds an obstacle there and stores it in the obstacles.csv file via serverAPI.py
-* **Removing Obstacles:** Right clicking on obstacles removes them from the screen as well as the obstacles.csv file via serverAPI.py
+- 🔭 Currently working on: Automating PDU configuration for the UMN data center
+- 🌱 Learning: Learning how to integrate APIs to practical automation tasks
+- 💬 Ask me about: How I have contributed to the UMN data center as the data center student lead
+- 📫 Reach me: tategirsch@gmail.com
 
-### How to Run the Program
-* **Load obstacles.csv** with obstacles you want to have placed in the program
-* **Launch serverAPI.py**
-* **Launch Sketch.pde via Processing.exe**
+### A few projects
+- [https://github.com/tategirsch/pdu-bootstrap-toolkit] — Checkout the automation task I am working on!
