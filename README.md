@@ -8,4 +8,5 @@ I am a data science undergraduate at the University of Minnesota.
 - 📫 Reach me: tategirsch@gmail.com
 
 ### A few projects
-- [https://github.com/tategirsch/pdu-bootstrap-toolkit] — Checkout the automation task I am working on!
+- [https://github.com/tategirsch/pdu-bootstrap-toolkit] - Checkout the automation task I am working on!
+- [https://github.com/girsc007/nfl-analytics] - Checkout this NFL dashboard I created that updates weekly!
